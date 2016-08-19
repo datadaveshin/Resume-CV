@@ -1,2 +1,2 @@
-# resume-cv
-Place to keep track of items for a resume or cv
+# Resume and CV
+Just a place to keep track of what to put in these documents, and hopefully, how to autocompile them.
