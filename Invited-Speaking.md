@@ -1,13 +1,13 @@
 #Invited Speaking, Lectures, Talks
-1. **Mechanistic insights into amyotrophic lateral sclerosis and correlations to clinical outcomes using small-angle X-ray scattering and crystallography** | 2015 | LBNL Life Sciences Retreat, Lafayette, CA
+1. **Mechanistic insights into amyotrophic lateral sclerosis and correlations to clinical outcomes using small-angle X-ray scattering and crystallography** (2015) LBNL Life Sciences Retreat, Lafayette, CA
 
-2. **Relationships among macromolecular interactions, dynamics & function: Bridging structure resolution gaps with combined structural methods and thermophilic systems** Lawrence Berkeley National Laboratory | 2009 | Berkeley, CA
+2. **Relationships among macromolecular interactions, dynamics & function: Bridging structure resolution gaps with combined structural methods and thermophilic systems** (2009) Lawrence Berkeley National Laboratory, Berkeley, CA
 
-## Bridging structure-function gaps with combined structural methods and thermophilic systems from Pyrococcus furiosus and Alvinella pompejana
-San Diego State University (2008) San Diego, CA
+3. **Bridging structure-function gaps with combined structural methods and thermophilic systems from Pyrococcus furiosus and Alvinella pompejana**
+(2008) San Diego State University, San Diego, CA
 
-## “Use of a deep-sea thermal vent worm A. pompejana for SOD structural biology”, 
-6th International Consortium on Superoxide Dismutase and Amyotrophic Lateral Sclerosis (2006) Long Beach, CA
+4. **Use of a deep-sea thermal vent worm A. pompejana for SOD structural biology** 
+(2006) 6th International Consortium on Superoxide Dismutase and Amyotrophic Lateral Sclerosis, Long Beach, CA
 
 5. 2nd Colloquium in Protein Structure, Function and Dynamics (2005) “Use of thermophilic organisms for structural analysis of complex protein systems”, San Juan, Puerto Rico
 
