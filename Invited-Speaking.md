@@ -3,9 +3,11 @@
 
 2. **Relationships among macromolecular interactions, dynamics & function: Bridging structure resolution gaps with combined structural methods and thermophilic systems** Lawrence Berkeley National Laboratory | 2009 | Berkeley, CA
 
-3. San Diego State University (2008) “Bridging structure-function gaps with combined structural methods and thermophilic systems from Pyrococcus furiosus and Alvinella pompejana”, San Diego, CA
+## Bridging structure-function gaps with combined structural methods and thermophilic systems from Pyrococcus furiosus and Alvinella pompejana
+San Diego State University (2008) San Diego, CA
 
-4. 6th International Consortium on Superoxide Dismutase and Amyotrophic Lateral Sclerosis (2006) “Use of a deep-sea thermal vent worm A. pompejana for SOD structural biology”, Long Beach, CA
+## “Use of a deep-sea thermal vent worm A. pompejana for SOD structural biology”, 
+6th International Consortium on Superoxide Dismutase and Amyotrophic Lateral Sclerosis (2006) Long Beach, CA
 
 5. 2nd Colloquium in Protein Structure, Function and Dynamics (2005) “Use of thermophilic organisms for structural analysis of complex protein systems”, San Juan, Puerto Rico
 
