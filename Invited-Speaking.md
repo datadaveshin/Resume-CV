@@ -1,7 +1,11 @@
 #Invited Speaking, Lectures, Talks
-1. LBNL Life Sciences Retreat (2015) “Mechanistic insights into amyotrophic lateral sclerosis and correlations to clinical outcomes using small-angle X-ray scattering and crystallography”, Lafayette, CA
+1. **Mechanistic insights into amyotrophic lateral sclerosis and correlations to clinical outcomes using small-angle X-ray scattering and crystallography** 
 
-2. Lawrence Berkeley National Laboratory (2009) “Relationships among macromolecular interactions, dynamics & function: Bridging structure resolution gaps with combined structural methods and thermophilic systems”, Berkeley, CA
+2015 | LBNL Life Sciences Retreat | Lafayette, CA
+
+2. **Relationships among macromolecular interactions, dynamics & function: Bridging structure resolution gaps with combined structural methods and thermophilic systems** 
+
+Lawrence Berkeley National Laboratory | 2009 | Berkeley, CA
 
 3. San Diego State University (2008) “Bridging structure-function gaps with combined structural methods and thermophilic systems from Pyrococcus furiosus and Alvinella pompejana”, San Diego, CA
 
