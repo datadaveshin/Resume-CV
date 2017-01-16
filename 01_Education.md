@@ -37,12 +37,12 @@ Technologies: HTML/CSS, JavaScript
 
 Principles of Computing (Part 1)
 Coursera/Rice University
-2-month online Python Course - Data Structures and Algorithms
+4-week online Python Course - Data Structures and Algorithms
 Technologies: Python, SimpleGui, CodeSkulptor, Owl-test
 
 An Introduction to Interactive Programming in Python (Parts 1 and 2)
 Coursera/Rice University
-4-month online Python Course - Data Structures and Algorithms
+9-week online Python Course - Data Structures and Algorithms
 Technologies: Python, SimpleGui, CodeSkulptor
 
 ##Additional Coursework
