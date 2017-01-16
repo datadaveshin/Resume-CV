@@ -1,5 +1,5 @@
 #Education
-###Ruth L. Kirschstein Postdoctoral Fellow in Cancer Biology
+####Ruth L. Kirschstein Postdoctoral Fellow in Cancer Biology
 ####Skaggs Institute for Chemical Biology Fellow
 The Scripps Research Institute, La Jolla, CA
 
@@ -32,9 +32,9 @@ Coursera/Rice University
 Technologies: Python, SimpleGui, CodeSkulptor
 
 ##Additional Coursework
-Git, GitHub, Markdown, R installation | Online Course: Coursera/John Hopkin’s University - The Data Scientist’s Toolbox
-UNIX shell, Python, Git, GitHub, Databases | In-Person Course: Software Carpentry
-Python, iPython, NumPy, Pandas, Matplotlib | In-Person Course: 3 Day Python Bootcamp by UC Berkeley (Josh Bloom) and Lawrence Berkeley National Lab (Fernando Perez)
-JavaScript | Online Course: Codeacademy
-SQL | In-Person Course: Software Carpentry
-Python, iPython, Pandas, Matplotlib, Git, GitHub | Online Course: Springboard
+-Git, GitHub, Markdown, R installation | Online Course: Coursera/John Hopkin’s University - The Data Scientist’s Toolbox
+-UNIX shell, Python, Git, GitHub, Databases | In-Person Course: Software Carpentry
+-Python, iPython, NumPy, Pandas, Matplotlib | In-Person Course: 3 Day Python Bootcamp by UC Berkeley (Josh Bloom) and Lawrence Berkeley National Lab (Fernando Perez)
+-JavaScript | Online Course: Codeacademy
+-SQL | In-Person Course: Software Carpentry
+-Python, iPython, Pandas, Matplotlib, Git, GitHub | Online Course: Springboard
