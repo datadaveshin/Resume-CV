@@ -1,6 +1,7 @@
 #Education
-####Ruth L. Kirschstein Postdoctoral Fellow in Cancer Biology
-####Skaggs Institute for Chemical Biology Fellow
+**Ruth L. Kirschstein Postdoctoral Fellow in Cancer Biology**
+**Skaggs Institute for Chemical Biology Fellow**
+
 The Scripps Research Institute, La Jolla, CA
 
 **Ph.D., Biochemistry and Molecular Biology**
