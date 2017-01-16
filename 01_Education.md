@@ -1,25 +1,38 @@
 #Education
 **Ruth L. Kirschstein Postdoctoral Fellow in Cancer Biology**
+
 **Skaggs Institute for Chemical Biology Fellow**
 
 The Scripps Research Institute, La Jolla, CA
 
+
 **Ph.D., Biochemistry and Molecular Biology**
+
 University of Arkansas for Medical Sciences, Little Rock, AR
 
+
 **BA, Chemistry,Sociology Minor**
+
 Arizona State University, Tempe, AZ
 
 ##Additional Education
 **Galvanize Web Development Immersive Fellow**
+
 Galvanize, San Francisco, CA
+
 6-month in-person full-time full-stack web development and computer science curriculum
+
 Technologies: HTML/CSS, JavaScript, NodeJS, Python, Postgres, Mocha+Chai, Git
 
+
 **Telegraph Prep**
+
 JavaScript Class
+
 Telegraph Academy/Hack Reactor, Berkeley CA
+
 1-month in-persion part-time JavaScript course
+
 Technologies: HTML/CSS, JavaScript
 
 Principles of Computing (Part 1)
